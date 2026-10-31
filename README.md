@@ -56,5 +56,5 @@ docker restart snort2
 
 | CVE | 簡介 | 規則檔 | 說明 |
 | --- | --- | --- | --- |
-| [CVE-2025-55182](CVE-2025-55182/) | React2Shell：React Server Components（RSC）在處理 Flight 協定時的不安全反序列化漏洞（CWE-502） | [CVE-2025-55182.rules](CVE-2025-55182/CVE-2025-55182.rules) | [規則說明](CVE-2025-55182/rules-doc.md) |
-| [CVE-2026-103663](CVE-2026-103663/) | Ollama 模型拉取 layer digest 路徑穿越：Ollama 在 /api/pull 模型拉取流程中 | [CVE-2026-103663.rules](CVE-2026-103663/CVE-2026-103663.rules) | [規則說明](CVE-2026-103663/rules-doc.md) |
+| [CVE-2025-55182](CVE-2025-55182/) | React2Shell：React Server Components（RSC）在處理 Flight 協定時的不安全反序列化漏洞（CWE-502），並牽涉 | [CVE-2025-55182.rules](CVE-2025-55182/CVE-2025-55182.rules) | [規則說明](CVE-2025-55182/rules-doc.md) |
+| [CVE-2026-103663](CVE-2026-103663/) | Ollama 模型拉取 layer digest 路徑穿越 | [CVE-2026-103663.rules](CVE-2026-103663/CVE-2026-103663.rules) | [規則說明](CVE-2026-103663/rules-doc.md) |
