@@ -59,3 +59,4 @@ docker restart snort2
 | [CVE-2025-55182](CVE-2025-55182/) | React2Shell：React Server Components（RSC）在處理 Flight 協定時的不安全反序列化漏洞（CWE-502） | [CVE-2025-55182.rules](CVE-2025-55182/CVE-2025-55182.rules) | [規則說明](CVE-2025-55182/rules-doc.md) |
 | [CVE-2026-103663](CVE-2026-103663/) | Ollama 模型拉取 layer digest 路徑穿越 | [CVE-2026-103663.rules](CVE-2026-103663/CVE-2026-103663.rules) | [規則說明](CVE-2026-103663/rules-doc.md) |
 | [CVE-2026-92543](CVE-2026-92543/) | Docker Engine 惡意 DNS 回應繞過 TLS 驗證漏洞（CVE-2026-92543 | [CVE-2026-92543.rules](CVE-2026-92543/CVE-2026-92543.rules) | [規則說明](CVE-2026-92543/rules-doc.md) |
+| [CVE-2026-86577](CVE-2026-86577/) | Hitachi JP1/Base 越界寫入攻擊嘗試 | [CVE-2026-86577.rules](CVE-2026-86577/CVE-2026-86577.rules) | [規則說明](CVE-2026-86577/rules-doc.md) |
